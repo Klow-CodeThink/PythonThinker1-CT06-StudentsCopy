@@ -5,5 +5,6 @@
 # sum = a + b
 # print(sum)
 
-print((50-10)*3)
+# print((50-10)*3)
 
+print
