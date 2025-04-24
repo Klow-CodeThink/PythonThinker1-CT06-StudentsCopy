@@ -26,8 +26,9 @@
 
 # Example 4
 
-apple = 1
-
+apple = 2
+num_apple = 10
+total_price = 
 
 
 ######## Write the pseudocode in comments for task 2 here
