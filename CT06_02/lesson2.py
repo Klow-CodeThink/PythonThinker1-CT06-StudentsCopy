@@ -14,7 +14,7 @@
 
 # Example 2
 
-
+num1 = int(input())
 
 
 ######## Write the pseudocode in comments for task 2 here
