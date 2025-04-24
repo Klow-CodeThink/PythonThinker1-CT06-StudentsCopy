@@ -10,4 +10,4 @@ average_score = total / 3
 
 student_name = "Alex"
 
-print
+print("Average score for")
