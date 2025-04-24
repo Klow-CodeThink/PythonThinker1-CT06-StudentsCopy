@@ -7,6 +7,7 @@ for i in range(5):
     thesum = thesum + num
 
 print(num)
+print(thesum)
 
 
 
