@@ -1,5 +1,7 @@
 # print("Hello from lesson 7")
 
+num_stu = input("")
+
 thesum = 0
 
 for i in range(5):
