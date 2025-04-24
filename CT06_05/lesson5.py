@@ -5,3 +5,6 @@
 # user_msg = input("Type a personal message for the birthday boy/girl: ")
 
 # print(f"Happy {user_age}th birthday, {user_name}! {user_msg}")
+
+for i in range (10):
+    print()
