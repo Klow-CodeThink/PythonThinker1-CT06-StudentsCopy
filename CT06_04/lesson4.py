@@ -7,7 +7,7 @@
 # print((red * 3) + (blue * 5) + (green * 4))
 
 user_name = input("Enter your name: ")
-print(f"Hi Sue{user_name}!")
+print(f"Hi, {user_name}!")
 
 # fav_colour = input("Enter your favourite colour: ")
 # user_age = input("Enter your age: ")
