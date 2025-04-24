@@ -22,6 +22,7 @@
 # Example 3
 
 age = int(input("Enter your age: "))
+print(age)
 
 
 
