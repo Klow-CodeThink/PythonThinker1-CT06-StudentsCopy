@@ -1,6 +1,6 @@
 # print("Hello from lesson 7")
 
-num_num = input("How many numbers to add? ")
+num_scores = input("How many scores to add? ")
 
 thesum = 0
 
