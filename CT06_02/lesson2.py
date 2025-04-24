@@ -26,10 +26,10 @@
 
 # Example 4
 
-apple = 2
-num_apple = 10
-total_price = apple * num_apple
-print(total_price)
+# apple = 2
+# num_apple = 10
+# total_price = apple * num_apple
+# print(total_price)
 
 
 
