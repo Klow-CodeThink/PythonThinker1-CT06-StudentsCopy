@@ -8,7 +8,7 @@
 
 user_name = input("Enter your name: ")
 
-print("Hi" + user_name)
+print("Hi" + user_name + "!")
 
 print(f"Hi, {user_name}!")
 
