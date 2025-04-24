@@ -1,6 +1,9 @@
 # print("Hello from lesson 7")
 
-t
+thesum = 0
+
+for i in range(5):
+    num
 
 
 
