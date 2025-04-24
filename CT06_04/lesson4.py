@@ -2,4 +2,6 @@
 
 red = 1
 blue = 2
-green = 
+green = 3
+
+print((red *))
