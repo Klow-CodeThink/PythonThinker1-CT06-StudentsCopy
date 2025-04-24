@@ -1,6 +1,6 @@
 # print("Hello from lesson 7")
 
-num_stu = input("")
+num_stu = int(input("Enter the number of students: "))
 
 thesum = 0
 
