@@ -21,7 +21,7 @@
 
 # Example 3
 
-
+age = input("")
 
 
 ######## Write the pseudocode in comments for task 2 here
