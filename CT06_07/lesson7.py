@@ -3,7 +3,7 @@
 thesum = 0
 
 for i in range(5):
-    thesum = input("What is Student ")
+    thesum = input("What is the score for Student" )
 
 
 
