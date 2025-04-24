@@ -3,14 +3,11 @@
 # Example 1
 
 # min_age = 12
-
 # user_age = int(input("Enter your age: "))
-
 # if user_age < min_age:
 #     print("Access denied.")
 # else:
 #     print("Access granted.")
-
 
 # Example 2
 
