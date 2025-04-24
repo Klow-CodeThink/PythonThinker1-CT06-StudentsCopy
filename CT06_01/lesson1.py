@@ -1,6 +1,5 @@
 print("Hello from lesson 1")
 
-print("Hello")
 
 ######### The below is the code required for task 2a ##########
 # print("1")
