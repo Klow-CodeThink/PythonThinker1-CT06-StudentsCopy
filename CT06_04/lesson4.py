@@ -9,5 +9,8 @@
 user_name = input("Enter your name: ")
 print(user_name)
 
-fav_colour = input("")
+fav_colour = input("Enter your favourite colour: ")
+print(fav_colour)
+
+
 
