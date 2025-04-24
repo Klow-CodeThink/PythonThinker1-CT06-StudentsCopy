@@ -24,6 +24,9 @@
 # age = int(input("Enter your age: "))
 # print(age)
 
+# Example 4
+
+apple = 1
 
 
 
