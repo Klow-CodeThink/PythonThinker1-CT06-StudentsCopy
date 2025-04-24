@@ -1,9 +1,9 @@
 # print("Hello from lesson 7")
 
 user_name = input("Enter your name: ")
-num = int(input("Enter a number: "))
+n = int(input("Enter a number: "))
 
-for i in range(num):
+for i in range(n):
     print(user_word)
 
 
