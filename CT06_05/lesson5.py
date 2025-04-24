@@ -3,5 +3,5 @@
 num = 0
 
 for i in range(10):
-    thesum = num + i
+    num = num + i
 
