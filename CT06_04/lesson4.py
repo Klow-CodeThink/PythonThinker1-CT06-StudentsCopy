@@ -6,5 +6,5 @@
 
 # print((red * 3) + (blue * 5) + (green * 4))
 
-
+name = input()
 
