@@ -11,3 +11,5 @@
 #     print("Ball!")
 
 
+num = 0
+
