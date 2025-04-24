@@ -3,7 +3,7 @@
 num = int(input("How many layers do you want the pyramid to have? "))
 
 for i in range(1, num + 1):
-    print(f"{num} x {i} = {num * i}")
+    print(f"str(i) * {i}")
 
 
 
