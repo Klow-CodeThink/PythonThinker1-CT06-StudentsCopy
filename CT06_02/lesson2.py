@@ -12,6 +12,7 @@ else:
     print("Access granted.")
 
 
+
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
 
