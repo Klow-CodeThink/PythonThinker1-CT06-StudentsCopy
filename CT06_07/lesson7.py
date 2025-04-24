@@ -3,8 +3,8 @@
 thesum = 0
 
 for i in range(5):
-    thesum = int(input("What is the score for Student " + str(i+1) + " ? "))
-    thesum = thesum + i
+    score = int(input("What is the score for Student " + str(i+1) + " ? "))
+    thesum = thesum + score
 
 print(thesum)
 
