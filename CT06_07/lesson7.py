@@ -3,7 +3,7 @@
 num = int(input("What number for the timestable? "))
 
 for i in range(1, 13):
-    print()
+    print(f"{num} ")
 
 
 
