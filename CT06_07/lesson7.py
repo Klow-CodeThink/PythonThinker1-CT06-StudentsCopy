@@ -8,7 +8,7 @@ for i in range(1, num_stud + 1):
     score = int(input("What is the score for Student " + str(i+1) + " ? "))
     thesum = thesum + score
 
-print(f"The average score is ({thesum / 5}.")
+print(f"The average score is ({thesum / num_stu + 1}.")
 
 
 
