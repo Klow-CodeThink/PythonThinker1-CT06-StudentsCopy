@@ -3,7 +3,7 @@
 thesum = 0
 
 for i in range(5):
-    num = input("What is number " + str(i + 1) + "? " )
+    num = int(input("What is number " + str(i + 1) + "? " ))
     thesum = thesum + num
 
 print(num)
