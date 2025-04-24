@@ -9,7 +9,7 @@ user_age = input("Enter your age: ")
 if user_age < min_age:
     print("Access denied.")
 else:
-    print(:)
+    print("Access granted.")
 
 
 ######## Write the pseudocode in comments for task 2 here
