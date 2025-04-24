@@ -21,3 +21,4 @@ print(f"The average score is {thesum / 5}.")
 
 
 
+
