@@ -3,9 +3,10 @@
 thesum = 0
 
 for i in range(5):
-    num = input("What is number " + str(i) + "?" )
-    print(num)
-    
+    num = input("What is number " + str(i + 1) + "?" )
+
+print(num)
+
 
 
 
