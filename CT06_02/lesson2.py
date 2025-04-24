@@ -2,6 +2,8 @@
 
 # Example 1
 
+min_age = 12
+
 
 
 ######## Write the pseudocode in comments for task 2 here
