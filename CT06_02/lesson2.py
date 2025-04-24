@@ -28,7 +28,8 @@
 
 apple = 2
 num_apple = 10
-total_price = 
+total_price = apple * num_apple
+
 
 
 ######## Write the pseudocode in comments for task 2 here
