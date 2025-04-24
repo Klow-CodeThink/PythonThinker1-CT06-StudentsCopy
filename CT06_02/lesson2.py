@@ -21,7 +21,8 @@
 
 # Example 3
 
-age = input("")
+age = int(input("Enter your age: "))
+
 
 
 ######## Write the pseudocode in comments for task 2 here
