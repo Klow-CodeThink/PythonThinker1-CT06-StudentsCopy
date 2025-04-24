@@ -5,4 +5,4 @@
 # sum = a + b
 # print(sum)
 
-print((50))
+print((50-10))
