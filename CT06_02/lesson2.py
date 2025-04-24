@@ -7,6 +7,7 @@ min_age = 12
 user_age = input("Enter your age: ")
 
 
+
 ######## Write the pseudocode in comments for task 2 here
 # Using comments, translate the code shown on screen into pseudocode.
 
