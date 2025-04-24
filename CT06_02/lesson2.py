@@ -14,7 +14,8 @@
 
 # Example 2
 
-num1 = int(input())
+num1 = int(input("Enter the first number: "))
+
 
 
 ######## Write the pseudocode in comments for task 2 here
