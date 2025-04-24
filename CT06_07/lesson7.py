@@ -1,6 +1,8 @@
 # print("Hello from lesson 7")
 
-total
+thesum = 0
+
+
 
 
 
