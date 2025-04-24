@@ -15,7 +15,7 @@
 # Example 2
 
 num1 = int(input("Enter the first number: "))
-
+num2 = int(input("Enter the second number: "))
 
 
 ######## Write the pseudocode in comments for task 2 here
