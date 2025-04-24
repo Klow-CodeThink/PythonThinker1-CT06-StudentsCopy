@@ -4,7 +4,7 @@
 
 min_age = 12
 
-user_age = input("Enter your age: ")
+user_age = int(input("Enter your age: "))
 
 if user_age < min_age:
     print("Access denied.")
