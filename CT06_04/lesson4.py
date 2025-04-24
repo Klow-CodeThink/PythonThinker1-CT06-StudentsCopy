@@ -12,5 +12,7 @@ print(user_name)
 fav_colour = input("Enter your favourite colour: ")
 print(fav_colour)
 
+user_age = input("Enter your age: ")
+
 
 
