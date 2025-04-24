@@ -7,4 +7,4 @@
 # print(f"Happy {user_age}th birthday, {user_name}! {user_msg}")
 
 for i in range (10):
-    print()
+    print("Snow!")
