@@ -4,7 +4,7 @@ user_name = input("Enter your name: ")
 n = int(input("Enter a number: "))
 
 for i in range(n):
-    print(user_word)
+    print("Nice to meet you " + u)
 
 
 
