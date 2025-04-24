@@ -7,10 +7,12 @@
 # print((red * 3) + (blue * 5) + (green * 4))
 
 user_name = input("Enter your name: ")
+print("Hi, user_name")
+
 fav_colour = input("Enter your favourite colour: ")
 user_age = input("Enter your age: ")
 
-print("Hi, user_name")
+
 print(fav_colour)
 print(user_age)
 
