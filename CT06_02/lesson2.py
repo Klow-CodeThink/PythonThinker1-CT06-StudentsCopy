@@ -6,6 +6,8 @@ min_age = 12
 
 user_age = input("Enter your age: ")
 
+if user_age < min_age:
+    
 
 
 ######## Write the pseudocode in comments for task 2 here
