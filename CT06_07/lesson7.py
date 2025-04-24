@@ -4,7 +4,7 @@ thesum = 0
 
 for i in range(5):
     thesum = int(input("What is the score for Student " + str(i+1) + " ? "))
-    thesum = thesum + 1
+    thesum = thesum + i
 
 print(thesum)
 
