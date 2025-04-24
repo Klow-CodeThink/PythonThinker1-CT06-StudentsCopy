@@ -14,5 +14,5 @@
 thesum = 0
 
 for i in range(10):
-    thesum = num + 1
-print(num)
+    thesum = thesum + 1
+print(thesum)
