@@ -11,8 +11,8 @@
 #     print("Ball!")
 
 
-num = 0
+sum = 0
 
 for i in range(10):
-    num = num + 1
+    sum = num + 1
 print(num)
