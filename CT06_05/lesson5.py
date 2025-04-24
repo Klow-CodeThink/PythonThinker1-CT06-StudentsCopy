@@ -11,8 +11,8 @@
 #     print("Ball!")
 
 
-sum = 0
+thesum = 0
 
 for i in range(10):
-    sum = num + 1
+    thesum = num + 1
 print(num)
