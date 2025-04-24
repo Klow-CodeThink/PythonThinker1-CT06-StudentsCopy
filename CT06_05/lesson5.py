@@ -1,3 +1,3 @@
 # print("Hello from lesson 5")
 
-user_name
+user_name = input("Enter")
