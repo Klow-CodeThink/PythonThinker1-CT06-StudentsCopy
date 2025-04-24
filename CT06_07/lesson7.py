@@ -6,7 +6,8 @@ for i in range(5):
     num = int(input("What is number " + str(i + 1) + "? " ))
     thesum = thesum + num
 
-print(thesum)
+print("The sum of the numbers is " + thesum + ".")
+
 
 
 
