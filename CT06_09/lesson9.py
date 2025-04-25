@@ -44,4 +44,6 @@ else:
 
 # Task 4
 
-num1 = 
+num1 = int(input("Enter a number: "))
+
+
