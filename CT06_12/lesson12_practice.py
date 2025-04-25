@@ -36,8 +36,8 @@ visitors = 0
 
 while True:
     visitors += 1
+    print(visitors)
     if visitors == 30:
-        print(visitors)
         break
     
 
