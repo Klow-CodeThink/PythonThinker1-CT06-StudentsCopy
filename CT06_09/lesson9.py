@@ -139,4 +139,4 @@ else:
 
 # Task 10a
 
-
+user_age = int(input())
