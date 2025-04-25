@@ -1,4 +1,3 @@
-# print("Hello from lesson 8")
 
 """
 # Task 1a
