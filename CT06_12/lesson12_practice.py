@@ -114,7 +114,7 @@ while score == 5:
         score = score + 1
         print("That's correct.")
     else:
-        print
+        print("Wrong. Try again.")
 
 
 
