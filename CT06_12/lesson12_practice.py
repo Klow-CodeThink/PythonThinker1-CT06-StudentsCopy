@@ -44,7 +44,7 @@ while True:
 
 visitors = 0
 
-while visitors < 50:
+while True:
     visitors += 1
     print("Visitor number:", visitors)
 
