@@ -109,7 +109,7 @@ if not drink == "yes" and burger == "yes" and fries == "yes":
 
 # Task 11
 
-
+is
 
 
 
