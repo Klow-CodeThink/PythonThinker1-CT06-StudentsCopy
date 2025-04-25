@@ -117,6 +117,11 @@ while score < 5:
         print("Wrong. Try again.")
 
 print("You got 5 correct answers! Well done!")
+"""
+
+
+# Task 6
+
 
 
 
