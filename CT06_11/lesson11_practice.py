@@ -119,7 +119,6 @@ if enter_name == user_name and enter_pw == user_pw:
     print("Access Granted")
 elif enter_name != user_name or enter_pw != user_pw:
     print("Either username or password is incorrect.")
-
     print("Access denied.")
 
 
