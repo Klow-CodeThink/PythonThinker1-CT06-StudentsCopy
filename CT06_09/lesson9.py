@@ -23,4 +23,4 @@ guess = int(input("Guess the number: "))
 if guess == ran_num:
     print("Congratulations! You did it!")
 else:
-    print()
+    print("Oops, better luck next time.")
