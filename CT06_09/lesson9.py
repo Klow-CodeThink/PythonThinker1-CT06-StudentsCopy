@@ -33,3 +33,6 @@ else:
 pw = C@deForFun
 
 login = int(input("Enter the password: "))
+
+if login == pw:
+    print()
