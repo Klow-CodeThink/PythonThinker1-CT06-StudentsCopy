@@ -95,7 +95,7 @@ else:
     print("Access granted")
 """
 
-
+"""
 # Task 10
 
 burger = input("Do you want a burger? ").lower()
@@ -104,7 +104,7 @@ fries = input("Do you want fries? ").lower()
 
 if not drink == "yes" and burger == "yes" and fries == "yes":
     print("Won't you get thirsty?")
-
+"""
 
 
 
