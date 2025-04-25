@@ -47,7 +47,8 @@ while True:
 order = ""
 
 while True:
-    plc_order = input("")
+    plc_order = input("What would you like to order: ")
+    
 
 
 
