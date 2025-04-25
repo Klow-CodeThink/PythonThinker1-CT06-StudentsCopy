@@ -36,3 +36,7 @@ if first_name == "James" and last_name == "Leong":
 # Task 4
 
 rider1 = int(input("Enter your age: "))
+rider2 = int(input("Enter your age: "))
+
+if rider1 >= 18 or rider2 >= 18:
+    print("")
