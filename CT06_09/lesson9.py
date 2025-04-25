@@ -74,5 +74,6 @@ if temp < 20:
     if temp >= 20 and temp <= 30:
         print("It is a great day for cycling.")
     else:
-        
+        print("How about a swimming session?")
+
 
