@@ -71,9 +71,9 @@ temp = int(input("Enter the temperature: "))
 
 if temp < 20:
     print("Consider reading indoors.")
-    if temp >= 20 and temp <= 30:
+if temp >= 20 and temp <= 30:
         print("It is a great day for cycling.")
-    else:
+else:
         print("How about a swimming session?")
 
 
