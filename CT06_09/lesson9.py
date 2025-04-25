@@ -147,7 +147,7 @@ if user_age < 0:
     print("Age cannot be negative.")
 elif user_age >= 18:
     print("Eligible to vote.")
-    user_pw = input("Enter the password: ")         # Task 10b
+    user_pw = input("Enter the password: ")         # Task 10b (nested if?)
     if pw == "passme":
         print("Welcome, please cast your vote.")
     else:
