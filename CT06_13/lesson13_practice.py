@@ -2,5 +2,6 @@
 
 # Task 1
 
-g_list = []
+list = []
 
+g_list
