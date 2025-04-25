@@ -41,7 +41,7 @@ while True:
         break
 """
 
-
+"""
 # Task 3
 
 order = " "
@@ -53,6 +53,8 @@ while True:
     order = order + plc_order + " "
 
 print(f"You have ordered: {order}")
+"""
+
 
 
 
