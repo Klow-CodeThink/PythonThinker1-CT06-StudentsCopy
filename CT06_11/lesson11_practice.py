@@ -70,7 +70,12 @@ else:
 
 # Task 7
 
-col = 
+col = input("Enter the colour: ")
+
+if not col == "Green":
+    print()
+
+
 
 
 
