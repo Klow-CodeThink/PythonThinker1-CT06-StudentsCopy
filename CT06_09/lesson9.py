@@ -151,8 +151,7 @@ elif user_age >= 18:
     if pw == "passme":
         print("Welcome, please cast your vote.")
     else:
-        
-
+        print("Access denied.")
 else:
     print("Not eligible to vote.")
 
