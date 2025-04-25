@@ -52,7 +52,10 @@ while True:
 
     if plc_order == "end":
         break
-    
+
+    print(order)
+
+
 
 
 
