@@ -18,4 +18,4 @@ import random
 
 ran_num = random.randint(1, 10)
 
-guess = int(input("Gues"))
+guess = int(input("Guess the number: "))
