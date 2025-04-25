@@ -19,3 +19,5 @@ print(shoplist)
 # Task 1b
 
 shoplist[7] = "herbs"
+
+print(shoplist)
