@@ -58,7 +58,9 @@ print(f"You have ordered: {order}")
 
 # Task 4
 
-
+for i in range(10, 0, -1):
+    print(i)
+    print("Happy New Year!")
 
 
 
