@@ -100,7 +100,7 @@ else:
 
 bur = input("Do you want a burger? ")
 dri = input("Do you want a drink? ")
-
+fri = input("Do you want a dr")
 
 
 
