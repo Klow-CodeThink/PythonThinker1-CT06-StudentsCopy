@@ -2,4 +2,5 @@
 
 # Task 1
 
-s
+groc_list = []
+
