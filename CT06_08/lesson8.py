@@ -225,7 +225,7 @@ for i in range(5):
     print(f"Attempt {i + 1} / 5")
 
     if G1 > ran_num:
-        print("")
+        print("Your guess is too high")
 
 
 
