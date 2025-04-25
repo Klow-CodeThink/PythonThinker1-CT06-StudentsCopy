@@ -72,8 +72,10 @@ else:
 
 col = input("Enter the colour: ")
 
-if not col == "Green":
+if not col.lower() == "Green":
     print("Try again.")
+
+
 
 
 
