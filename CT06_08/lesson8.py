@@ -214,4 +214,8 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 print("Guess the number between 1 and 100. You have 5 attempts.")
 time.sleep(2)
 
-G1 = input("Enter you")
+G1 = input("Enter your guess: ")
+
+
+
+
