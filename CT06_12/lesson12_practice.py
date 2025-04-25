@@ -32,13 +32,13 @@ while visitors < 25:
 
 # Task 2
 
-# visitors = 0
+visitors = 0
 
-# while True:
-#     visitors += 1
-#     if visitors <= 30:
-#         print(visitors)
-#         break
+while True:
+    visitors += 1
+    if visitors <= 30:
+        print(visitors)
+        break
     
 
 
