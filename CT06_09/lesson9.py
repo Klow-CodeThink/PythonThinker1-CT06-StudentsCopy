@@ -30,7 +30,7 @@ else:
 
 # Task 3
 
-pw = C@deForFun
+pw = "C@deForFun"
 
 login = int(input("Enter the password: "))
 
