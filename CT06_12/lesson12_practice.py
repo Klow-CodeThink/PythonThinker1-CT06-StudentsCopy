@@ -48,7 +48,8 @@ order = ""
 
 while True:
     plc_order = input("What would you like to order: ")
-    pla_order 
+    plc_order = plc_order + order
+    
 
 
 
