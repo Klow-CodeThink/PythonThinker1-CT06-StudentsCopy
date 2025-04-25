@@ -122,7 +122,7 @@ for product in catalogue:
     print(f"- {product}")
 """
 
-
+"""
 # Task 4b
 
 catalogue = []
@@ -144,6 +144,10 @@ if search in catalogue:
     print("Yes, we sell that.")
 else:
     print("I'm sorry. We do not have that.")
+"""
+
+
+
 
 
 
