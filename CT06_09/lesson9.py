@@ -90,6 +90,9 @@ if ran_num > guess:
     print("Higher!")
 else:
     if ran_num < guess:
-        print()
+        print("Lower!")
+    else:
+        if ran_num == guess:
+            print("")
 
 
