@@ -30,4 +30,4 @@ else:
 
 # Task 3
 
-pw = C@deFor
+pw = C@deForFun
