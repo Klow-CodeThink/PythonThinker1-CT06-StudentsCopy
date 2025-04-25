@@ -61,6 +61,6 @@ if grocery == "Carrots":
 grocery == "Carrots"
 
 if grocery == "Carrots":
-    print(f"{name}: Get the FarmFresh brand")
+    print(f"{grocery}: Get the FarmFresh brand")
 
 
