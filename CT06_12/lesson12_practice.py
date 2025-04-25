@@ -112,7 +112,9 @@ while score == 5:
     ques = int(input(f"What is {num1} x {num2}? "))
     if ques == (num1 * num2):
         score = score + 1
-        
+        print("That's correct.")
+    else:
+        print
 
 
 
