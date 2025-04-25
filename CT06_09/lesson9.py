@@ -51,7 +51,7 @@ else:
     print(f"{num1} is an odd number.")
 """
 
-
+"""
 # Task 5
 
 user_age = int(input("Enter your age: "))
@@ -62,6 +62,8 @@ elif user_age >= 13 and user_age <= 19:
     print("Teen")
 else:
     print("Adult")
+"""
+
 
 
 
