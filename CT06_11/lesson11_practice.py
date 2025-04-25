@@ -22,7 +22,7 @@ else:
     print(f"{num1} is not divisible by either 3 or 7.")
 """
 
-
+"""
 # Task 3
 
 first_name = input("Enter your first name: ")
@@ -30,4 +30,7 @@ last_name = input("Enter your last name: ")
 
 if first_name == "James" and last_name == "Leong":
     print("You are a Wanted Person!")
+"""
+
+
 
