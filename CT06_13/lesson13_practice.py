@@ -16,3 +16,5 @@ shoplist.append("honey")
 print(shoplist)
 
 
+# Task 1b
+
