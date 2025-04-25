@@ -76,7 +76,6 @@ while count > 0:
     print(count)
     
     if count == 5:
-        print("Countdown interrupted at 5!")
         break
     else:
         count -= 1
