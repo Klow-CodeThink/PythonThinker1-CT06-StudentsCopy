@@ -126,7 +126,7 @@ elif enter_name != user_name or enter_pw != user_pw:
 
 # Task 12
 
-game_status = "active".lower()
+
 
 
 
