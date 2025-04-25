@@ -115,7 +115,6 @@ while True:
         break
 
     catalogue.append(item)
-    print(f"'{item}' has been added to the catalogue.\n")
 
 # Display the final catalogue
 print("\n🛒 Online Grocery Catalogue:")
