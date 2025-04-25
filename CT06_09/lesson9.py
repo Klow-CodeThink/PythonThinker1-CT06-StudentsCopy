@@ -100,7 +100,7 @@ else:
 """
 
 """
-# Task 7b
+# Task 7b / Task 8
 
 import random
 
