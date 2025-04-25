@@ -148,6 +148,8 @@ if user_age < 0:
 elif user_age >= 18:
     print("Eligible to vote.")
     user_pw = input("Enter the password: ")
+    if pw == "passme":
+        print
 
 else:
     print("Not eligible to vote.")
