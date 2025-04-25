@@ -13,7 +13,7 @@ shoplist.append("flour")
 shoplist.append("grapes")
 shoplist.append("honey")
 
-print(shoplist)
+# print(shoplist)
 
 
 # Task 1b
@@ -21,3 +21,4 @@ print(shoplist)
 shoplist[7] = "herbs"
 
 print(shoplist)
+
