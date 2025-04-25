@@ -19,7 +19,7 @@ while visitors < 30:
     print(visitors)
 """
 
-
+"""
 # Task 1c
 
 visitors = 4
@@ -27,3 +27,5 @@ visitors = 4
 while visitors < 25:
     visitors = visitors + 1     # visitors += 1
     print(visitors)
+
+
