@@ -51,9 +51,10 @@ while True:
     plc_order = plc_order + order
 
     if plc_order == "end":
+        print(order)
         break
 
-    print(order)
+    
 
 
 
