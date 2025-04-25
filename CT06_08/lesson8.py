@@ -182,7 +182,7 @@ else:
     print("Incorrect. The correct answer is Paris.")
 
 time.sleep(2)
-Q2 = input("Question 1: Wh? ")
+Q2 = input("Question 1: Who wrote? ")
 
 print(f"Your answer: {Q1}")
 
