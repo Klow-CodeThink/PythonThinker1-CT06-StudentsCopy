@@ -79,7 +79,10 @@ while True:
 
 # Print each item in the required format
 for grocery in basket:
-    print(f"I have bought {grocery}")
+    print(f"I have bought {grocery}.")
+
+
+
 
 
 
