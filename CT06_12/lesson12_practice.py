@@ -129,7 +129,7 @@ num = 0
 while num != 4:
     ran_num = random.randint(1, 6)
     num = num + ran_num
-    print(num)
+print(num)
 
 
 
