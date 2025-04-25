@@ -11,3 +11,11 @@ else:
     print(f"{num1} is negative.")
 """
 
+
+# Task 2
+
+import random
+
+ran_num = random.randint(1, 10)
+
+guess = 
