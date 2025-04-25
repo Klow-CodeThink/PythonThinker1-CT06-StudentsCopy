@@ -1,8 +1,1 @@
-# print("Hello from lesson 9")
-
-
-
-
-
-
-
+print("Hello from lesson 9")
