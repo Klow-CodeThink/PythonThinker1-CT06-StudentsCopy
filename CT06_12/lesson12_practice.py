@@ -87,6 +87,8 @@ while count > 0:
 import random
 
 num1 = random.randint(1, 10)
+num2 = random.randint(1, 10)
+
 
 
 
