@@ -54,5 +54,8 @@ else:
 
 # Task 5
 
-user_age = 
+user_age = int(input("Enter your age: "))
+
+if user_age < 13:
+    print()
 
