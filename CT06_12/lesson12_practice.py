@@ -49,9 +49,10 @@ order = ""
 while True:
     plc_order = input("What would you like to order: ").lower()
     plc_order = plc_order + order
+    print(order)
 
     if plc_order == "end":
-        print(order)
+        
         break
 
     
