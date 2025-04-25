@@ -221,7 +221,7 @@ print("Guess the number between 1 and 100. You have 5 attempts.")
 time.sleep(2)
 
 for i in range(5):
-    G1 = int(input("Enter your guess: "))
+    G1 = int(input(f"Enter your guess: "))
     print(f"Attempt {i + 1} / 5")
 
     if G1 > ran_num:
