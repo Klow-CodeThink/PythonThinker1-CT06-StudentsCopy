@@ -134,5 +134,59 @@ for i in range(num_ques):
     print(result)
 """
 
+"""
+# Task 7
+
+import random
+
+num1 = int(input("Enter a number: "))
+
+even_num = num1 % 2 == 0
+
+print(f"Is your number an even number? {even_num}")
+"""
+
+"""
+# Task 8
+
+import random
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+mul_num = num1 % num2 == 0
+
+print(f"{num1} is a multiple of {num2}. {mul_num}")
+"""
 
 
+# Challenge 1
+
+score = 0
+
+import time
+
+print("Welcome to Whiz Quiz Game!")
+time.sleep(2)
+print("You will be tested on 3 General Knowledge questions.")
+time.sleep(2)
+print("Let's start!")
+time.sleep(2)
+Q1 = input("Question 1: What is the capital of France? ")
+
+print(f"Your answer: {Q1}")
+
+if Q1 == "Paris":
+    print("Correct!")
+else:
+    print("Incorrect. The correct answer is Paris.")
+
+time.sleep(2)
+Q1 = input("Question 1: What is the capital of France? ")
+
+print(f"Your answer: {Q1}")
+
+if Q1 == "Paris":
+    print("Correct!")
+else:
+    print("Incorrect. The correct answer is Paris.")
