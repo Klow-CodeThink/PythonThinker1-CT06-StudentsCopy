@@ -86,7 +86,7 @@ while count > 0:
 
 import random
 
-
+num1 = random.randint(1, 10)
 
 
 
