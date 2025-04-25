@@ -84,7 +84,7 @@ if not day == "Saturday":
     print("It is not the weekend yet!")
 """
 
-
+"""
 # Task 9
 
 pw = input("Enter the password: ")
@@ -93,6 +93,8 @@ if not pw == "Python123":
     print("Access denied.")
 else:
     print("Access granted")
+"""
+
 
 
 
