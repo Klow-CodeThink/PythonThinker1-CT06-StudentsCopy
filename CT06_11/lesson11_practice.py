@@ -58,7 +58,7 @@ else:
 
 # Task 6
 
-
+user_gen = input("Enter your gender: ")
 
 
 
