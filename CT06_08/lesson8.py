@@ -219,9 +219,9 @@ print(ran_num)
 print("Guess the number between 1 and 100. You have 5 attempts.")
 time.sleep(2)
 
-
-
-G1 = int(input("Enter your guess: "))
+for i in range(5):
+    G1 = int(input("Enter your guess: "))
+    
 
 
 
