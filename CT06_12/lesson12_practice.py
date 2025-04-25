@@ -50,9 +50,9 @@ while True:
     plc_order = input("What would you like to order (type 'end' to finish): ").lower()
     if plc_order == "end":
         break
-    order = order + plc_order + " "
+    order = order + plc_order + ", "
 
-print(order)
+print(f"You have ordered: {order}")
 
     
         
