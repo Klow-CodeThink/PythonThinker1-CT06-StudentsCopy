@@ -119,7 +119,7 @@ while score < 5:
 print("You got 5 correct answers! Well done!")
 """
 
-
+"""
 # Task 6
 
 import random
@@ -141,6 +141,9 @@ while num != 4:
 #     if number == 4:
 #         print("It's a 4! Stopping.")
 #         break
+"""
+
+
 
 
 
