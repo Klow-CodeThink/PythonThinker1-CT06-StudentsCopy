@@ -231,7 +231,7 @@ for i in range(5):
         print("You are correct!")
         break
     
-print(f"Game Over. The number was {ran_num}.")
+print(f"Game Over. The number is {ran_num}.")
 """
 
 
