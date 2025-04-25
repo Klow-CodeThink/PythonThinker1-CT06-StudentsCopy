@@ -35,4 +35,4 @@ if first_name == "James" and last_name == "Leong":
 
 # Task 4
 
-rider1 = 
+rider1 = int(input("Enter your age: "))
