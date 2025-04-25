@@ -81,7 +81,7 @@ while count > 0:
         count -= 1
 """
 
-
+"""
 # Task 5
 
 import random
@@ -96,6 +96,9 @@ while True:
         break
     else:
         print("Wrong. Try again.")
+"""
+
+
 
 
 
