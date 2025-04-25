@@ -32,4 +32,4 @@ else:
 
 pw = C@deForFun
 
-login = 
+login = int(input("Enter the password: "))
