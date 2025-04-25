@@ -98,7 +98,7 @@ else:
 
 # Task 10
 
-bur = inp
+bur = input("Do you want a b")
 
 
 
