@@ -47,7 +47,7 @@ while True:
 order = ""
 
 while True:
-    
+    plc_order = 
 
 
 
