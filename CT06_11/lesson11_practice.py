@@ -47,6 +47,10 @@ else:
 
 # Task 5
 
+user_age = int(input("Enter your age: "))
+
+if user_age < 12 or user_age > 65:
+    print()
 
 
 
