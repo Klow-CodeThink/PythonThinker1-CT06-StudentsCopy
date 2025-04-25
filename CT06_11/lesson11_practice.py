@@ -98,7 +98,7 @@ else:
 
 # Task 10
 
-
+bur = inp
 
 
 
