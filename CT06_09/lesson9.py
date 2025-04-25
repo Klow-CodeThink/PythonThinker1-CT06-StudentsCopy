@@ -67,5 +67,8 @@ else:
 
 # Task 6
 
-temp = int(input("Enter"))
+temp = int(input("Enter the temperature: "))
+
+if temp < 20:
+    
 
