@@ -149,6 +149,20 @@ else:
 
 # Task 5
 
+import random
+
+
+lucky_draw_numbers = []
+
+for _ in range(10):
+    number = random.randint(1, 9999)
+    lucky_draw_numbers.append(number)
+
+# Step 2: Announce the winners
+print("🎉 Lucky Draw Winners 🎉\n")
+
+for i in range(len(lucky_draw_numbers)):
+    print(f"Winner #{i + 1}: {lucky_draw_numbers[i]}")
 
 
 
