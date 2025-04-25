@@ -92,7 +92,9 @@ pw = input("Enter the password: ")
 if not pw == "Python123":
     print("Access denied.")
 else:
-    print("")
+    print("Access granted")
+
+
 
 
 
