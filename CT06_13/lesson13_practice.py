@@ -58,6 +58,8 @@ if grocery == "Carrots":
     print(f"{grocery}: I need 3 of these")
 
 
+name == "Carrots"
+
 if name == "Carrots":
     print(f"{name}: Get the FarmFresh brand")
 
