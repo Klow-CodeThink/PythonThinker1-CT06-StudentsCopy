@@ -211,4 +211,5 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 
 # Challenge 2
 
-print
+print("Guess the number between 1 and 100. You have 5 attempts.")
+
