@@ -212,6 +212,7 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 # Challenge 2
 
 import random
+import time
 
 ran_num = random.randint(1, 100)
 print(ran_num)
