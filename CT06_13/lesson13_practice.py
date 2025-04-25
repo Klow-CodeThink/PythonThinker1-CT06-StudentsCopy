@@ -41,5 +41,12 @@ del(shoplist[2])
 
 # Task 2
 
-for groceries in shoplist:
-    print(groceries)
+# for groceries in shoplist:
+    # print(groceries)
+
+
+grocery = "Apples"
+
+if grocery == "Apples":
+    print(f"{grocery}: I need 5 of these")
+
