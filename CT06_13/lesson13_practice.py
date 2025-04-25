@@ -64,7 +64,7 @@ if grocery == "Grapes":
     print(f"{grocery}: Get the FarmFresh brand")
 """
 
-
+"""
 # Task 3
 
 basket = []
@@ -80,7 +80,10 @@ while True:
 # Print each item in the required format
 for grocery in basket:
     print(f"I have bought {grocery}.")
+"""
 
+
+Task
 
 
 
