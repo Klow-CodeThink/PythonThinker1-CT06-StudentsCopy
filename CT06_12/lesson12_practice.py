@@ -44,7 +44,7 @@ while True:
 
 # Task 3
 
-order = ""
+order = " "
 
 while True:
     plc_order = input("What would you like to order (type 'end' to finish): ").lower()
