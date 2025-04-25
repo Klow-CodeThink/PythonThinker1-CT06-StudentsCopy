@@ -99,8 +99,9 @@ else:
 # Task 10
 
 burger = input("Do you want a burger? ")
-fries = input("Do you want a drink? ")
 drink = input("Do you want a drink? ")
+fries = input("Do you want a ? ")
+
 
 
 
