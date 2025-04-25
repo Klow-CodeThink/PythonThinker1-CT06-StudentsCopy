@@ -80,9 +80,6 @@ while count > 0:
     else:
         count -= 1
 
-#     count -= 1
-# else:
-#     print("Happy New Year!")
 
 
 
