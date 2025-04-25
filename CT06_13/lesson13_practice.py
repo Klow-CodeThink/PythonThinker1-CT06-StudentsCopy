@@ -85,6 +85,23 @@ for grocery in basket:
 
 # Task 4
 
+catalogue = []
+
+while True:
+    item = input("Enter an item to add to the catalogue: ").lower()
+
+    if item == "end":
+        break
+
+    catalogue.append(item)
+
+# Display the final catalogue
+print("Online Grocery Catalogue:")
+for product in catalogue:
+    print(f"- {product}")
+
+
+
 # catalogue = []
 
 # print("Create your online grocery catalogue.")
@@ -106,20 +123,7 @@ for grocery in basket:
 
 
 
-catalogue = []
 
-while True:
-    item = input("Enter an item to add to the catalogue: ").lower()
-
-    if item == "end":
-        break
-
-    catalogue.append(item)
-
-# Display the final catalogue
-print("Online Grocery Catalogue:")
-for product in catalogue:
-    print(f"- {product}")
 
 
 
