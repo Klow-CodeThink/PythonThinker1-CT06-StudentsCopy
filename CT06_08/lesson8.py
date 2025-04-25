@@ -193,7 +193,7 @@ else:
 
 
 time.sleep(2)
-Q3 = input("Question 3: What is the smallest planet? ")
+Q3 = input("Question 3: What is the smallest planet in our solar system? ")
 
 print(f"Your answer: {Q1}")
 
