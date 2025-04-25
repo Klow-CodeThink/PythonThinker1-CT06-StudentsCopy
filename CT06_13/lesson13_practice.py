@@ -161,7 +161,7 @@ for i in range(len(lucky_draw_numbers)):
     print(f"Winner #{i + 1}: {lucky_draw_numbers[i]}")
 """
 
-
+"""
 # Task 6
 
 # Step 1: List of available toppings
@@ -195,7 +195,7 @@ while True:
 print("\n🍕 You have selected the following toppings:")
 for topping in selected_toppings:
     print(f"- {topping}")
-
+"""
 
 
 
