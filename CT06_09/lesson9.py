@@ -81,7 +81,8 @@ else:
 
 import random
 
-ran_num = random.randint
+ran_num = random.randint(1, 10)
+
 
 
 
