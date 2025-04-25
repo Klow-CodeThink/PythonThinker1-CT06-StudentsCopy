@@ -60,6 +60,9 @@ else:
 
 user_gen = input("Enter your gender: ")
 
+if user_gen == "M" or "Make":
+    
+
 
 
 
