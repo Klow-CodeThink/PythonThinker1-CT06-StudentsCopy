@@ -202,4 +202,4 @@ if Q1 == "Mercury":
 else:
     print("Incorrect. The correct answer is Mercury.")
 
-print("Whiz Quiz is completed. Your final score is {}")
+print("Whiz Quiz is completed. Your final score is {}/3.")
