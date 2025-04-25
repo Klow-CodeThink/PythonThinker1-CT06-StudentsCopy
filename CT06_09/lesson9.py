@@ -67,5 +67,5 @@ else:
 
 # Task 6
 
-temp
+temp = int(input("Enter"))
 
