@@ -110,7 +110,9 @@ if not drink == "yes" and burger == "yes" and fries == "yes":
 # Task 11
 
 user_name = "John123"
-user_pw = ""
+user_pw = "pw123"
+
+
 
 
 
