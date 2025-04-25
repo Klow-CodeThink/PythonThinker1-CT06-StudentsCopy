@@ -146,11 +146,10 @@ else:
     print("I'm sorry. We do not have that.")
 """
 
-
+"""
 # Task 5
 
 import random
-
 
 lucky_draw_numbers = []
 
@@ -160,7 +159,10 @@ for _ in range(10):
 
 for i in range(len(lucky_draw_numbers)):
     print(f"Winner #{i + 1}: {lucky_draw_numbers[i]}")
+"""
 
+
+Task 6
 
 
 
