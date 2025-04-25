@@ -136,7 +136,7 @@ else:
     print("F")
 """
 
-
+"""
 # Task 10a
 
 pw = "passme"
@@ -154,6 +154,8 @@ elif user_age >= 18:
         print("Access denied.")
 else:
     print("Not eligible to vote.")
+"""
+
 
 
 
