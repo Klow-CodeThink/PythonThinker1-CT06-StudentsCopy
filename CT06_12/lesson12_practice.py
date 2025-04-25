@@ -124,6 +124,8 @@ print("You got 5 correct answers! Well done!")
 
 import random
 
+num = 0
+
 
 
 
