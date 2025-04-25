@@ -119,7 +119,7 @@ else:
     print("Invalid input!")
 """
 
-
+"""
 # Task 9
 
 user_score = int(input("Enter the score: "))
@@ -134,5 +134,7 @@ elif user_score >= 60 and user_score <= 69:
     print("D")
 else:
     print("F")
+"""
+
 
 
