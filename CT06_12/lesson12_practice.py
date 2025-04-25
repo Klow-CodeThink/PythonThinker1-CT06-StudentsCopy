@@ -124,8 +124,9 @@ print("You got 5 correct answers! Well done!")
 
 import random
 
-number = 0
-while number != 4:
+num = 0
+
+while num != 4:
     number = random.randint(1, 6)
     print("Rolled:", number)
 
