@@ -116,7 +116,7 @@ while score < 5:
     else:
         print("Wrong. Try again.")
 
-print()
+print("You a")
 
 
 
