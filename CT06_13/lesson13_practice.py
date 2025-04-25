@@ -82,7 +82,7 @@ for grocery in basket:
     print(f"I have bought {grocery}.")
 """
 
-
+"""
 # Task 4
 
 catalogue = []
@@ -120,6 +120,10 @@ while True:
 print("\n🛒 Online Grocery Catalogue:")
 for product in catalogue:
     print(f"- {product}")
+"""
+
+
+# Task 5
 
 
 
