@@ -2,5 +2,5 @@
 
 # Task 1
 
-groc_list = []
+g_list = []
 
