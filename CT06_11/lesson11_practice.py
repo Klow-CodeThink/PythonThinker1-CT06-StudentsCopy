@@ -98,7 +98,8 @@ else:
 
 # Task 10
 
-bur = input("Do you want a b")
+bur = input("Do you want a burger? ")
+dri = 
 
 
 
