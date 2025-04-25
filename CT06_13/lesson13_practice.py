@@ -83,7 +83,7 @@ for grocery in basket:
 """
 
 """
-# Task 4
+# Task 4a
 
 catalogue = []
 
@@ -123,7 +123,7 @@ for product in catalogue:
 """
 
 
-# Task 5
+# Task 4b
 
 
 
