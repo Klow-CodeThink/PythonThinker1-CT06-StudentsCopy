@@ -12,3 +12,5 @@ shoplist.append("eggs")
 shoplist.append("flour")
 shoplist.append("grapes")
 shoplist.append("honey")
+
+print(shoplist)
