@@ -202,3 +202,4 @@ if Q1 == "Mercury":
 else:
     print("Incorrect. The correct answer is Mercury.")
 
+print("Whiz Quiz is completed")
