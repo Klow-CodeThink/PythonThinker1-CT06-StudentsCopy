@@ -81,7 +81,9 @@ if not col == "Green":
 day = input("Enter the day of the week: ")
 
 if not day == "Saturday":
-    print("")
+    print("It is not the weekend yet!")
+
+
 
 
 
