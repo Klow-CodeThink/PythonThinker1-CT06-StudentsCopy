@@ -29,7 +29,7 @@ while visitors < 25:
     print(visitors)
 """
 
-
+"""
 # Task 2
 
 visitors = 0
@@ -39,7 +39,9 @@ while True:
     print(visitors)
     if visitors == 30:
         break
-    
+"""
+
+
 
 
 
