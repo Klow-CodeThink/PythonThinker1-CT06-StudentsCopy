@@ -209,3 +209,6 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 """
 
 
+# Challenge 2
+
+
