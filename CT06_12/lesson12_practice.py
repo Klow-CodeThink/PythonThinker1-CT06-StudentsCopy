@@ -57,17 +57,17 @@ while True:
         
 
 
-order = ""
+# order = ""
 
-while True:
-    plc_order = input("What would you like to order (type 'end' to finish): ").lower()
+# while True:
+#     plc_order = input("What would you like to order (type 'end' to finish): ").lower()
 
-    if plc_order == "end":
-        break
+#     if plc_order == "end":
+#         break
 
-    order += plc_order + ", "  # Add the item to the order string
+#     order += plc_order + ", "  # Add the item to the order string
 
-print("Your final order is:", order)
+# print("Your final order is:", order)
     
 
 
