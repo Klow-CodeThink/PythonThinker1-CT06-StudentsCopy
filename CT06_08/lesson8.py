@@ -182,7 +182,7 @@ else:
     print("Incorrect. The correct answer is Paris.")
 
 time.sleep(2)
-Q1 = input("Question 1: What is the capital of France? ")
+Q2 = input("Question 1: Wh? ")
 
 print(f"Your answer: {Q1}")
 
