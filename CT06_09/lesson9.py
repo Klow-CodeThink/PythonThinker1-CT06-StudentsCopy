@@ -77,7 +77,7 @@ else:
     print("How about a swimming session?")
 """
 
-# Task 7
+# Task 7a
 
 import random
 
