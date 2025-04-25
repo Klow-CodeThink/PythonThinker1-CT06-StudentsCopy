@@ -33,4 +33,4 @@ print(shoplist)
 
 # Task 1d
 
-
+del(shoplist[2])
