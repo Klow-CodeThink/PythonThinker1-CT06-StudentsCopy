@@ -18,4 +18,4 @@ print(shoplist)
 
 # Task 1b
 
-shoplist
+shoplist[7]
