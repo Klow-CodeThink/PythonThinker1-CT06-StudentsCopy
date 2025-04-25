@@ -90,7 +90,9 @@ num1 = random.randint(1, 10)
 num2 = random.randint(1, 10)
 
 while True:
-    ques = int(input(f"What is {num1} x "))
+    ques = int(input(f"What is {num1} x {num2}? "))
+    if ques == (num1 * num2):
+        print
 
 
 
