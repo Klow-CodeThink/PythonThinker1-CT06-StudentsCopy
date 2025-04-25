@@ -44,7 +44,7 @@ else:
     print("Entry denied.")
 """
 
-"""
+
 # Task 5
 
 user_age = int(input("Enter your age: "))
@@ -53,9 +53,9 @@ if user_age < 12 or user_age > 65:
     print("Ticket price: $15.")
 else:
     print("Ticket price: $20.")
+
+
 """
-
-
 # Task 6
 
 user_gen = input("Enter your gender: ")
@@ -64,7 +64,7 @@ if user_gen == "M" or "Make":
     print("Valid Input")
 else:
     print("Invalid Input")
-
+"""
 
 
 
