@@ -125,11 +125,7 @@ for product in catalogue:
 
 # Task 4b
 
-# Step 1: Create the catalogue
 catalogue = []
-
-print("Create your online grocery catalogue.")
-print("Type 'end' when you're finished.\n")
 
 while True:
     item = input("Enter an item to add to the catalogue: ").strip().lower()
