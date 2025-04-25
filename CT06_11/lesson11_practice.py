@@ -78,7 +78,7 @@ if not col == "Green":
 
 # Task 8
 
-
+day = input("")
 
 
 
