@@ -220,5 +220,9 @@ G1 = int(input("Enter your guess: "))
 
 ran_num = random.randint(1, 100)
 
+print(ran_num)
+
+
+
 
 
