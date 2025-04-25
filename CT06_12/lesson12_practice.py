@@ -122,6 +122,8 @@ print("You got 5 correct answers! Well done!")
 
 # Task 6
 
+import random
+
 
 
 
