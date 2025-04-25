@@ -193,7 +193,7 @@ else:
 
 
 time.sleep(2)
-Q3 = input("Question 3: Who wrote 'To Kill A Mockingbird? ")
+Q3 = input("Question 3: What is the smallest planet? ")
 
 print(f"Your answer: {Q1}")
 
