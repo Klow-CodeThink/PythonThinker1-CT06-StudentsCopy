@@ -82,3 +82,57 @@ result = ans == (a + b)
 
 print(result)
 """
+
+"""
+# Task 4b
+
+import random
+
+com_ran = random.randint(1, 50)
+
+print(com_ran)
+
+user_start = int(input("Enter the start number: "))
+user_end = int(input("Enter the end number: "))
+
+result = com_ran > user_start and com_ran < user_end
+
+print(result)
+"""
+
+"""
+# Task 5
+
+import random
+
+num1 = random.randint(1, 10)
+
+print(num1)
+
+guess = int(input("Guess My Number: "))
+
+result = guess == num1
+
+print(result)
+"""
+
+"""
+# Task 6
+
+import random
+
+num_ques = int(input("How many multiplication questions would you like? "))
+
+for i in range(num_ques):
+    first_num = random.randint(1, 10)           # Loop through the number of questions
+    second_num = random.randint(1, 10)
+    
+    ans = int(input(f"What is {first_num} x {second_num}? "))
+    
+    result = ans == (first_num * second_num)
+    
+    print(result)
+"""
+
+
+
