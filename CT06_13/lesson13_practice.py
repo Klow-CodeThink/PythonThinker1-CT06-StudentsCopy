@@ -117,7 +117,7 @@ while True:
     catalogue.append(item)
 
 # Display the final catalogue
-print("\n🛒 Online Grocery Catalogue:")
+print("Online Grocery Catalogue:")
 for product in catalogue:
     print(f"- {product}")
 
