@@ -127,8 +127,8 @@ import random
 num = 0
 
 while num != 4:
-    ran_num = random.randint(1, 6)
-    print("Rolled:", number)
+    num = random.randint(1, 6)
+    print(f"Rolled:", number)
 
 
 
