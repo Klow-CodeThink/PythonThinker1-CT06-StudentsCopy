@@ -189,6 +189,7 @@ print(f"Your answer: {Q1}")
 
 if Q1 == "Harper Lee":
     print("Correct!")
+    score = score + 1
 else:
     print("Incorrect. The correct answer was Harper Lee.")
 
@@ -200,6 +201,7 @@ print(f"Your answer: {Q1}")
 
 if Q1 == "Mercury":
     print("Correct!")
+    score = score + 1
 else:
     print("Incorrect. The correct answer is Mercury.")
 
