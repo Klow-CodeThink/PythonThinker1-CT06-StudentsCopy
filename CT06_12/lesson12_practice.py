@@ -142,11 +142,3 @@ while num != 4:
 #         print("It's a 4! Stopping.")
 #         break
 """
-
-
-
-
-
-
-
-
