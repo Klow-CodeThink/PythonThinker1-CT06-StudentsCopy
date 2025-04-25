@@ -224,6 +224,9 @@ for i in range(5):
     G1 = int(input("Enter your guess: "))
     print(f"Attempt {i + 1} / 5")
 
+    if G1 > ran_num:
+        print()
+
 
 
 
