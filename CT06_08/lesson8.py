@@ -218,7 +218,7 @@ time.sleep(2)
 
 G1 = int(input("Enter your guess: "))
 
-
+ran_ym
 
 
 
