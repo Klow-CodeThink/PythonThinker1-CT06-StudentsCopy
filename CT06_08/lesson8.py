@@ -222,7 +222,7 @@ time.sleep(2)
 
 for i in range(5):
     G1 = int(input("Enter your guess: "))
-    print(f"Attempt str({i + 1}) / 5")
+    print(f"Attempt {i + 1} / 5")
 
 
 
