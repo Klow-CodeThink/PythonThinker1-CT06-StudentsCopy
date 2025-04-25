@@ -148,8 +148,8 @@ if user_age < 0:
 elif user_age >= 18:
     print("Eligible to vote.")
     user_pw = input("Enter the password: ")         # Task 10b (nested if?)
-    if pw == "passme":
-        print("Welcome, please cast your vote.")
+    if pw == "passme":                              # Task 10b
+        print("Welcome, please cast your vote.")    # Task 10b
     else:
         print("Access denied.")
 else:
