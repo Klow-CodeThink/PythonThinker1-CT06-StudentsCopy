@@ -208,7 +208,7 @@ else:
 print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 """
 
-
+"""
 # Challenge 2
 
 import random
@@ -233,6 +233,8 @@ for i in range(5):
         break
     
 print(f"Game Over. The number was {ran_num}.")
+"""
+
 
 
 
