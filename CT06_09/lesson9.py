@@ -79,7 +79,9 @@ else:
 
 # Task 7
 
+import random
 
+ran_num = random.randint
 
 
 
