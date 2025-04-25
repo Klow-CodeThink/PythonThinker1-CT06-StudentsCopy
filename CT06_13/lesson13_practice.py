@@ -18,4 +18,4 @@ print(shoplist)
 
 # Task 1b
 
-shoplist[7]
+shoplist[7] = "herbs"
