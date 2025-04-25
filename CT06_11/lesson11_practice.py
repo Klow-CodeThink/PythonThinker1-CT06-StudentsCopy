@@ -78,7 +78,10 @@ if not col == "Green":
 
 # Task 8
 
-day = input("")
+day = input("Enter the day of the week: ")
+
+if not day == "Saturday":
+    
 
 
 
