@@ -112,7 +112,8 @@ if not drink == "yes" and burger == "yes" and fries == "yes":
 user_name = "John123"
 user_pw = "pw123"
 
-enter_name = input("")
+enter_name = input("Enter your username: ")
+enter_pw = input("Enter your password. ")
 
 
 
