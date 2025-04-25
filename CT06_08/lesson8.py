@@ -187,7 +187,7 @@ Q2 = input("Question 2: Who wrote 'To Kill A Mockingbird? ")
 
 print(f"Your answer: {Q2}")
 
-if Q1 == "Harper Lee":
+if Q2 == "Harper Lee":
     print("Correct!")
     score = score + 1
 else:
@@ -199,7 +199,7 @@ Q3 = input("Question 3: What is the smallest planet in our solar system? ")
 
 print(f"Your answer: {Q3}")
 
-if Q1 == "Mercury":
+if Q3 == "Mercury":
     print("Correct!")
     score = score + 1
 else:
