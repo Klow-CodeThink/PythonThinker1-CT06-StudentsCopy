@@ -28,9 +28,11 @@ shoplist[7] = "herbs"
 shoplist.append("ice")
 shoplist.insert(1, "bananas")
 
-print(shoplist)
+# print(shoplist)
 
 
 # Task 1d
 
 del(shoplist[2])
+
+print(shoplist)
