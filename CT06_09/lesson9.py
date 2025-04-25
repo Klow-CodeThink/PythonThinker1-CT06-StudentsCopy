@@ -97,6 +97,25 @@ else:
         else:
             print("Invalid input!")
 
+# Task 7b
+
+import random
+
+ran_num = random.randint(1, 10)
+print(ran_num)
+
+guess = int(input("Guess the number: "))
+
+if ran_num > guess:
+    print("Higher!")
+else:
+    if ran_num < guess:
+        print("Lower!")
+    else:
+        if ran_num == guess:
+            print("You got it!")
+        else:
+            print("Invalid input!")
 
 
 
