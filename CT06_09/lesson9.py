@@ -113,10 +113,9 @@ if ran_num > guess:
     print("Higher!")
 elif ran_num < guess:
     print("Lower!")
+elif ran_num == guess:
+    print("You got it!")
 else:
-        if ran_num == guess:
-            print("You got it!")
-        else:
             print("Invalid input!")
 
 
