@@ -60,7 +60,7 @@ else:
 
 user_gen = input("Enter your gender: ")
 
-if user_gen == "M" or "Make":
+if user_gen == "M" or user_gen == "Make":
     print("Valid Input")
 else:
     print("Invalid Input")
