@@ -52,7 +52,7 @@ while True:
         break
     order = order + plc_order + ", "
 
-print(f"You have ordered: {order}")
+print(f"You have ordered {order}.")
 
 
 
