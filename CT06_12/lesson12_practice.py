@@ -35,8 +35,8 @@ while visitors < 25:
 visitors = 0
 
 while True:
+    visitors += 1
     if visitors <= 30:
-        visitors += 1
         print(visitors)
         break
     
