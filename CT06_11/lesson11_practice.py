@@ -75,7 +75,7 @@ if not col == "Green":
     print("Try again.")
 """
 
-
+"""
 # Task 8
 
 day = input("Enter the day of the week: ")
