@@ -213,12 +213,11 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 
 import random
 
-print("Guess the number between 1 and 100. You have 5 attempts.")
-time.sleep(2)
-
 ran_num = random.randint(1, 100)
 print(ran_num)
 
+print("Guess the number between 1 and 100. You have 5 attempts.")
+time.sleep(2)
 
 G1 = int(input("Enter your guess: "))
 
