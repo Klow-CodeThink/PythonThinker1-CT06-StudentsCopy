@@ -60,5 +60,5 @@ if grocery == "Carrots":
 
 name == "Grapes"
 
-if grocery == "Carrots":
+if name == "Carrots":
     print(f"{grocery}: I need 3 of these")
