@@ -87,6 +87,9 @@ print(ran_num)
 guess = int(input("Guess the number: "))
 
 if ran_num > guess:
-    print()
+    print("Higher!")
+else:
+    if ran_num < guess:
+        print()
 
 
