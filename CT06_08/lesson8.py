@@ -200,4 +200,5 @@ print(f"Your answer: {Q1}")
 if Q1 == "Mercury":
     print("Correct!")
 else:
-    print("Incorrect. The correct answer was Harper Lee.")
+    print("Incorrect. The correct answer is Mercury.")
+
