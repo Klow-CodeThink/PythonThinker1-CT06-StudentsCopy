@@ -6,4 +6,4 @@ rider1 = 125
 rider2 = 150
 
 if rider1 and rider2 >= 120:
-    print("")
+    print("Eligible for the ride.")
