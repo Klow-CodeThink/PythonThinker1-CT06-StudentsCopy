@@ -87,7 +87,10 @@ if not day == "Saturday":
 
 # Task 9
 
+pw = input("Enter the password: ")
 
+if not pw == "Python123":
+    print("")
 
 
 
