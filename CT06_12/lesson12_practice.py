@@ -32,5 +32,9 @@ while visitors < 25:
 
 # Task 2
 
+visitors = 0
 
+while True:
+    if visitors <= 30:
+        break
 
