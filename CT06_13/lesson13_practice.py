@@ -36,3 +36,7 @@ shoplist.insert(1, "bananas")
 del(shoplist[2])
 
 print(shoplist)
+
+
+
+# Task 1
