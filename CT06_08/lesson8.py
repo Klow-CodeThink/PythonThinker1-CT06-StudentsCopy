@@ -197,7 +197,7 @@ Q3 = input("Question 3: What is the smallest planet in our solar system? ")
 
 print(f"Your answer: {Q1}")
 
-if Q1 == "Harper Lee":
+if Q1 == "Mercury":
     print("Correct!")
 else:
     print("Incorrect. The correct answer was Harper Lee.")
