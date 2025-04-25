@@ -67,7 +67,7 @@ else:
     print("Happy New Year!")
 """
 
-
+"""
 # Task 4b
 
 count = 10
@@ -79,6 +79,8 @@ while count > 0:
         break
     else:
         count -= 1
+"""
+
 
 
 
