@@ -1,5 +1,5 @@
 
-
+"""
 # Task 1a
 
 shoplist = []
@@ -43,7 +43,7 @@ del(shoplist[2])
 
 for groceries in shoplist:
     print(groceries)
-
+"""
 
 grocery = "Apples"
 
