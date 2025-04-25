@@ -145,4 +145,6 @@ if user_age < 0:
     print("Age cannot be negative.")
 elif user_age >= 18:
     print("Eligible to vote.")
+else:
+    print("Not eligible to vote.")
 
