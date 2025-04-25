@@ -70,7 +70,7 @@ else:
 
 # Task 7
 
-
+col = 
 
 
 
