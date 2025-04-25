@@ -77,6 +77,7 @@ else:
     print("How about a swimming session?")
 """
 
+"""
 # Task 7a
 
 import random
@@ -96,6 +97,8 @@ else:
             print("You got it!")
         else:
             print("Invalid input!")
+"""
+
 
 # Task 7b
 
