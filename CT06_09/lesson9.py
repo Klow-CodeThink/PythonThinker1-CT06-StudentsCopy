@@ -137,7 +137,7 @@ else:
 """
 
 
-# Task 10a/10b
+# Task 10a
 
 pw = "passme"
 
@@ -147,9 +147,9 @@ if user_age < 0:
     print("Age cannot be negative.")
 elif user_age >= 18:
     print("Eligible to vote.")
-    user_pw = input("Enter the password: ")         # }Task 10b
-    if pw == "passme":                              # }Task 10b
-        print("Welcome, please cast your vote.")    # }Task 10b
+    user_pw = input("Enter the password: ")         # }
+    if pw == "passme":                              # } Task 10b
+        print("Welcome, please cast your vote.")    # }
     else:
         print("Access denied.")
 else:
