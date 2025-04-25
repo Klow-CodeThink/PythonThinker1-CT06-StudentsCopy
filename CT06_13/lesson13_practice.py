@@ -85,6 +85,24 @@ for grocery in basket:
 
 # Task 4
 
+catalogue = []
+
+print("Create your online grocery catalogue.")
+print("Type 'end' when you're finished.\n")
+
+while True:
+    item = input("Enter an item to add to the catalogue: ").strip()
+
+    if item.lower() == "end":
+        break
+
+    catalogue.append(item)
+    print(f"'{item}' has been added to the catalogue.\n")
+
+# Display the final catalogue
+print("\n🛒 Online Grocery Catalogue:")
+for product in catalogue:
+    print(f"- {product}")
 
 
 
