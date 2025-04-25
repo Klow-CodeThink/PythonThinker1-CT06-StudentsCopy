@@ -229,7 +229,9 @@ for i in range(5):
     elif G1 < ran_num:
         print("Your guess is too low.")
     else:
-        print
+        print("You are correct!")
+        break
+
 
 
 
