@@ -30,3 +30,7 @@ shoplist.insert(1, "bananas")
 
 print(shoplist)
 
+
+# Task 1d
+
+
