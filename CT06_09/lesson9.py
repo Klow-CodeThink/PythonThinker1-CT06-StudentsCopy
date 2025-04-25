@@ -111,10 +111,9 @@ guess = int(input("Guess the number: "))
 
 if ran_num > guess:
     print("Higher!")
+elif ran_num < guess:
+    print("Lower!")
 else:
-    if ran_num < guess:
-        print("Lower!")
-    else:
         if ran_num == guess:
             print("You got it!")
         else:
