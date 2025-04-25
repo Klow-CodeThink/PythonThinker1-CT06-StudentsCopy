@@ -1,6 +1,6 @@
 
 """
-# Task 1
+# Task 1a
 
 visitors = 0
 
@@ -10,7 +10,7 @@ while visitors < 50:
 """
 
 
-# Task 2
+# Task 1b
 
 
 
