@@ -164,6 +164,37 @@ for i in range(len(lucky_draw_numbers)):
 
 # Task 6
 
+# Step 1: List of available toppings
+toppings = ["pepperoni", "mushrooms", "onions", "sausage", "extra cheese"]
+
+# Step 2: Show toppings with index numbers
+print("Available pizza toppings:")
+for i in range(len(toppings)):
+    print(f"{i}: {toppings[i]}")
+
+# Step 3: Ask user to select toppings by index
+selected_toppings = []
+
+while True:
+    choice = input("\nWhich topping would you like? (Enter index or type 'end' to finish): ").strip().lower()
+
+    if choice == "end":
+        break
+
+    if choice.isdigit():
+        index = int(choice)
+        if 0 <= index < len(toppings):
+            selected_toppings.append(toppings[index])
+            print(f"Added {toppings[index]} to your pizza.")
+        else:
+            print("Invalid index. Please choose a number from the list.")
+    else:
+        print("Please enter a valid number or 'end'.")
+
+# Step 4: Print the selected toppings
+print("\n🍕 You have selected the following toppings:")
+for topping in selected_toppings:
+    print(f"- {topping}")
 
 
 
