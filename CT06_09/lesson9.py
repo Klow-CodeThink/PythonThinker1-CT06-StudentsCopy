@@ -35,6 +35,6 @@ pw = "C@deForFun"
 login = input("Enter the password: ")
 
 if login == pw:
-    print("Login Successful.")
+    print("Login Successful")
 else:
-    print("Password")
+    print("Invalid Password")
