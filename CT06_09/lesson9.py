@@ -64,18 +64,18 @@ else:
     print("Adult")
 """
 
-"""
+
 # Task 6
 
 temp = int(input("Enter the temperature: "))
 
 if temp < 20:
     print("Consider reading indoors.")
-elif temp >= 20 and temp <= 30:
+if temp >= 20 and temp <= 30:
     print("It is a great day for cycling.")
 else:
     print("How about a swimming session?")
-"""
+
 
 
 
