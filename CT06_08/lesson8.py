@@ -186,7 +186,7 @@ Q2 = input("Question 1: Who wrote 'To Kill A Mockingbird? ")
 
 print(f"Your answer: {Q1}")
 
-if Q1 == "Pa":
+if Q1 == "Harper Lee":
     print("Correct!")
 else:
     print("Incorrect. The correct answer is Paris.")
