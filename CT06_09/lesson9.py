@@ -11,7 +11,7 @@ else:
     print(f"{num1} is negative.")
 """
 
-
+"""
 # Task 2
 
 import random
@@ -25,3 +25,6 @@ if guess == ran_num:
     print("Congratulations! You did it!")
 else:
     print("Oops, better luck next time.")
+"""
+
+
