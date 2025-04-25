@@ -98,9 +98,9 @@ else:
 
 # Task 10
 
-bur = input("Do you want a burger? ")
+burger = input("Do you want a burger? ")
 dri = input("Do you want a drink? ")
-fri = input("Do you want a dr")
+fri = input("Do you want a drink? ")
 
 
 
