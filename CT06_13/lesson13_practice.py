@@ -4,4 +4,4 @@
 
 shoplist = []
 
-shoplist
+shoplist.append(apples)
