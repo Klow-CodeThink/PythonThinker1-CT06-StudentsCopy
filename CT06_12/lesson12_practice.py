@@ -103,7 +103,10 @@ while True:
 
 import random
 
+score = 0
 
+while True:
+    num1 
 
 
 
