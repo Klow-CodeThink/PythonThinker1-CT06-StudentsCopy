@@ -86,10 +86,12 @@ while count > 0:
 
 import random
 
-num1 = random.randint(1, 10)
-num2 = random.randint(1, 10)
+
 
 while True:
+    num1 = random.randint(1, 10)
+    num2 = random.randint(1, 10)
+
     ques = int(input(f"What is {num1} x {num2}? "))
     if ques == (num1 * num2):
         print("That's correct.")
