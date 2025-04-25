@@ -95,7 +95,7 @@ while True:
         print("That's correct.")
         break
     else:
-        print
+        print("Wrong. Try again.")
 
 
 
