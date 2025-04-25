@@ -26,3 +26,4 @@ print(shoplist)
 # Task 1c
 
 shoplist.append("ice")
+shoplist.insert()
