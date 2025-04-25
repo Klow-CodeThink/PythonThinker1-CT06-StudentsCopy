@@ -57,5 +57,6 @@ else:
 user_age = int(input("Enter your age: "))
 
 if user_age < 13:
-    print()
+    print("Child")
+    elif user_age >= 13 and user_age <= 19
 
