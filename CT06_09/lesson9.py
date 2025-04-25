@@ -95,7 +95,9 @@ else:
         if ran_num == guess:
             print("You got it!")
         else:
-            
+            print("Invalid input!")
+
+
 
 
 
