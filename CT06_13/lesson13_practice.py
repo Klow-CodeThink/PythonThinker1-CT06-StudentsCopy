@@ -6,8 +6,8 @@ shoplist = []
 
 shoplist.append("apples")
 shoplist.append("bread")
-shoplist.append("apples")
-shoplist.append("apples")
-shoplist.append("apples")
+shoplist.append("carrots")
+shoplist.append("dates")
+shoplist.append("")
 shoplist.append("apples")
 shoplist.append("apples")
