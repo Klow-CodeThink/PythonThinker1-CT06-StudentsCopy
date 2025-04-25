@@ -211,6 +211,8 @@ print(f"Whiz Quiz is completed. Your final score is {score}/3.")
 
 # Challenge 2
 
+import random
+
 print("Guess the number between 1 and 100. You have 5 attempts.")
 time.sleep(2)
 
