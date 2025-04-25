@@ -25,4 +25,4 @@ print(shoplist)
 
 # Task 1c
 
-shoplist.append()
+shoplist.append("ice")
