@@ -19,3 +19,6 @@ import random
 ran_num = random.randint(1, 10)
 
 guess = int(input("Guess the number: "))
+
+if guess == ran_num:
+    print("Congra")
