@@ -106,7 +106,7 @@ if not drink == "yes" and burger == "yes" and fries == "yes":
     print("Won't you get thirsty?")
 """
 
-
+"""
 # Task 11
 
 user_name = "John123"
@@ -120,6 +120,8 @@ if enter_name == user_name and enter_pw == user_pw:
 elif enter_name != user_name or enter_pw != user_pw:
     print("Either username or password is incorrect.")
     print("Access denied.")
+"""
+
 
 
 
