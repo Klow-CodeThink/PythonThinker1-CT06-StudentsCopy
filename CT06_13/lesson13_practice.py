@@ -20,7 +20,7 @@ shoplist.append("honey")
 
 shoplist[7] = "herbs"
 
-print(shoplist)
+# print(shoplist)
 
 
 # Task 1c
