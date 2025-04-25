@@ -94,6 +94,8 @@ while True:
     if ques == (num1 * num2):
         print("That's correct.")
         break
+    else:
+        print
 
 
 
