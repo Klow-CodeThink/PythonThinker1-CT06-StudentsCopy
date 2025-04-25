@@ -1,5 +1,5 @@
 
-
+"""
 # Task 1
 
 rider1 = 125
@@ -9,5 +9,7 @@ if rider1 and rider2 >= 120:
     print("Eligible for the ride.")
 else:
     print("Not eligible.")
+"""
 
+# Task 2
 
