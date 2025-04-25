@@ -125,6 +125,29 @@ for product in catalogue:
 
 # Task 4b
 
+# Step 1: Create the catalogue
+catalogue = []
+
+print("Create your online grocery catalogue.")
+print("Type 'end' when you're finished.\n")
+
+while True:
+    item = input("Enter an item to add to the catalogue: ").strip().lower()
+
+    if item == "end":
+        break
+
+    catalogue.append(item)
+    print(f"'{item}' has been added to the catalogue.\n")
+
+# Step 2: Ask the user what they're looking for
+search = input("What are you looking for? ").strip().lower()
+
+# Step 3: Check if the item is in the catalogue
+if search in catalogue:
+    print("Yes, we sell that.")
+else:
+    print("I'm sorry. We do not have that.")
 
 
 
