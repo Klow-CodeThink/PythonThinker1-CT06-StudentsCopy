@@ -51,4 +51,8 @@ if grocery == "Apples":
     print(f"{grocery}: I need 5 of these")
 
 
+grocery = "Carrots"
+
+if grocery == "Apples":
+    print(f"{grocery}: I need 5 of these")
 
