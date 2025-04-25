@@ -126,6 +126,8 @@ import random
 
 num = 0
 
+while num != 4:
+    ran_num = random.randint(1, 6)
 
 
 
