@@ -14,7 +14,7 @@ while visitors < 50:
 
 visitors = 18
 
-while visitors < 50:
+while visitors < 30:
     visitors = visitors + 1     # visitors += 1
     print(visitors)
 
