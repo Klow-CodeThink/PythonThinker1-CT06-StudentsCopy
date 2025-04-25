@@ -109,9 +109,9 @@ for product in catalogue:
 catalogue = []
 
 while True:
-    item = input("Enter an item to add to the catalogue: ").strip()
+    item = input("Enter an item to add to the catalogue: ").lower()
 
-    if item.lower() == "end":
+    if item == "end":
         break
 
     catalogue.append(item)
