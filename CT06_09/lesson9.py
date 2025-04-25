@@ -136,7 +136,7 @@ else:
     print("F")
 """
 
-
+"""
 # Task 10a
 
 user_age = int(input("Enter your age: "))
@@ -147,6 +147,9 @@ elif user_age >= 18:
     print("Eligible to vote.")
 else:
     print("Not eligible to vote.")
+"""
+
+
 
 
 
