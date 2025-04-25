@@ -41,4 +41,4 @@ rider2 = int(input("Enter your age: "))
 if rider1 >= 18 or rider2 >= 18:
     print("Enter")
 else:
-    
+    print("Entry denied.")
