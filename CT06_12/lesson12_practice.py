@@ -112,7 +112,7 @@ while True:
     ques = int(input(f"What is {num1} x {num2}? "))
     if ques == (num1 * num2):
         score = score + 1
-        print("T")
+        
 
 
 
