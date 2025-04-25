@@ -162,7 +162,7 @@ for i in range(len(lucky_draw_numbers)):
 """
 
 
-Task 6
+# Task 6
 
 
 
