@@ -139,4 +139,7 @@ else:
 
 # Task 10a
 
-user_age = int(input())
+user_age = int(input("Enter your age: "))
+
+if user_age < 0:
+    print()
