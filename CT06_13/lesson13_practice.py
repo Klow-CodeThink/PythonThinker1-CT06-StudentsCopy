@@ -67,6 +67,19 @@ if grocery == "Grapes":
 
 # Task 3
 
+basket = []
+
+while True:
+    item = input("What item have you added to your basket? ").lower()
+
+    if item == "end":
+        break
+
+    basket.append(item)
+
+# Print each item in the required format
+for grocery in basket:
+    print(f"I have bought {grocery}")
 
 
 
