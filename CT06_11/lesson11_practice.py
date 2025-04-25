@@ -14,3 +14,4 @@ else:
 
 # Task 2
 
+num1 = int(input())
