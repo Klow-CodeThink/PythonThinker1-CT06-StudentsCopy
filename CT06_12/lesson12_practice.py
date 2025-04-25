@@ -82,7 +82,7 @@ while count > 0:
 """
 
 """
-# Task 5
+# Task 5a
 
 import random
 
@@ -99,7 +99,7 @@ while True:
 """
 
 
-# Task 6
+# Task 5b
 
 
 
