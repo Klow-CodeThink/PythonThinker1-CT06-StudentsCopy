@@ -32,7 +32,7 @@ if first_name == "James" and last_name == "Leong":
     print("You are a Wanted Person!")
 """
 
-
+"""
 # Task 4
 
 rider1 = int(input("Enter your age: "))
@@ -42,5 +42,7 @@ if rider1 >= 18 or rider2 >= 18:
     print("You may enter.")
 else:
     print("Entry denied.")
+"""
+
 
 
