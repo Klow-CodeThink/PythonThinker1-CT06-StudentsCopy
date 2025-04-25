@@ -29,5 +29,5 @@ first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 
 if first_name == James and last_name == Leong:
-    print()
+    print("You are a Wanted Person!")
 
