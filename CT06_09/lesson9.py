@@ -99,7 +99,7 @@ else:
             print("Invalid input!")
 """
 
-
+"""
 # Task 7b
 
 import random
@@ -117,6 +117,8 @@ elif ran_num == guess:
     print("You got it!")
 else:
     print("Invalid input!")
+"""
+
 
 
 
