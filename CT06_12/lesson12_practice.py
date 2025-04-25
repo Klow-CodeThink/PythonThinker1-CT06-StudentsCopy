@@ -42,4 +42,14 @@ while True:
     
 
 
+visitors = 0
+
+while visitors < 50:
+    visitors += 1
+    print("Visitor number:", visitors)
+
+    if visitors == 30:
+        print("Visitor limit of 30 reached. Closing entry.")
+        break
+
 
