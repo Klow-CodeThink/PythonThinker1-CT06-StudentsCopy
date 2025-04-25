@@ -19,4 +19,6 @@ num1 = int(input("Enter a number: "))
 if num1 % 3 == 0 and num1 % 7 == 0:
     print(f"{num1} is divisible by both 3 and 7.")
 else:
-    print(f"{num1} is not divi")
+    print(f"{num1} is not divisible by either 3 or 7.")
+
+
