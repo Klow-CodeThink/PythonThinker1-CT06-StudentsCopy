@@ -79,11 +79,11 @@ while count > 0:
         print("Countdown interrupted at 5!")
         break
     else:
-        
+        count -= 1
 
-    count -= 1
-else:
-    print("Happy New Year!")
+#     count -= 1
+# else:
+#     print("Happy New Year!")
 
 
 
