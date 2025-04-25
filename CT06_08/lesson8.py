@@ -178,6 +178,7 @@ print(f"Your answer: {Q1}")
 
 if Q1 == "Paris":
     print("Correct!")
+    score = score + 1
 else:
     print("Incorrect. The correct answer is Paris.")
 
