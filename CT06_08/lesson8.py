@@ -159,7 +159,7 @@ mul_num = num1 % num2 == 0
 print(f"{num1} is a multiple of {num2}. {mul_num}")
 """
 
-
+"""
 # Challenge 1
 
 score = 0
@@ -206,4 +206,6 @@ else:
     print("Incorrect. The correct answer is Mercury.")
 
 print(f"Whiz Quiz is completed. Your final score is {score}/3.")
+"""
+
 
