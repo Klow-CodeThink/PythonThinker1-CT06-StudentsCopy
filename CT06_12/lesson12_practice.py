@@ -58,11 +58,15 @@ print(f"You have ordered: {order}")
 
 # Task 4
 
-while i in range(10, 0, -1):
-    print(i)
 
-print("Happy New Year!")
 
+count = 10
+
+while count > 0:
+    print(count)
+    count -= 1
+else:
+    print("Happy New Year!")
 
 
 
