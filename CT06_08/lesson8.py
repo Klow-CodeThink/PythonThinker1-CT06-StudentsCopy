@@ -216,11 +216,12 @@ import random
 print("Guess the number between 1 and 100. You have 5 attempts.")
 time.sleep(2)
 
+ran_num = random.randint(1, 100)
+print(ran_num)
+
+
 G1 = int(input("Enter your guess: "))
 
-ran_num = random.randint(1, 100)
-
-print(ran_num)
 
 
 
