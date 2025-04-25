@@ -182,7 +182,7 @@ else:
     print("Incorrect. The correct answer is Paris.")
 
 time.sleep(2)
-Q2 = input("Question 1: Who wrote 'To Kill A Mockingbird? ")
+Q2 = input("Question 2: Who wrote 'To Kill A Mockingbird? ")
 
 print(f"Your answer: {Q1}")
 
@@ -193,7 +193,7 @@ else:
 
 
 time.sleep(2)
-Q3 = input("Question 1: Who wrote 'To Kill A Mockingbird? ")
+Q3 = input("Question 3: Who wrote 'To Kill A Mockingbird? ")
 
 print(f"Your answer: {Q1}")
 
