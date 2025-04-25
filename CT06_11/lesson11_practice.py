@@ -66,14 +66,15 @@ else:
     print("Invalid Input")
 """
 
-
-
+"""
 # Task 7
 
 col = input("Enter the colour: ")
 
 if not col == "Green":
     print("Try again.")
+"""
+
 
 
 
