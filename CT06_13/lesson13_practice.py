@@ -42,4 +42,4 @@ del(shoplist[2])
 # Task 2
 
 for groceries in shoplist:
-    
+    print(groceries)
