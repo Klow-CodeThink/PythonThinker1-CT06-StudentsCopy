@@ -17,4 +17,4 @@ else:
 num1 = int(input("Enter a number: "))
 
 if num1 % 3 == 0 and num1 % 7 == 0:
-    print(f"{nu}")
+    print(f"{num1} is divisible by both 3 and 7.")
