@@ -47,7 +47,7 @@ while True:
 order = ""
 
 while True:
-    plc_order = input("Place your order")
+    plc_order = input("")
 
 
 
