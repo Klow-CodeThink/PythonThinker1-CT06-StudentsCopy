@@ -98,8 +98,8 @@ else:
 
 # Task 10
 
-burger = input("Do you want a burger? ")
-drink = input("Do you want a drink? ")
+burger = input("Do you want a burger? ").lower()
+drink = input("Do you want a drink? ").lower()
 fries = input("Do you want fries? ")
 
 if not drink == "Yes" and burger == "Yes" and fries == "Yes":
