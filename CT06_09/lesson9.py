@@ -130,4 +130,7 @@ elif user_score >= 80 and user_score <= 89:
     print("B")
 elif user_score >= 70 and user_score <= 79:
     print("C")
+elif user_score >= 70 and user_score <= 79:
+    print("C")
+
 
