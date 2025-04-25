@@ -36,6 +36,7 @@ visitors = 0
 
 while True:
     if visitors <= 30:
+        visitors +
         break
 
 
