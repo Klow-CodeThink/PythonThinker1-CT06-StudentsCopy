@@ -105,7 +105,7 @@ import random
 
 score = 0
 
-while score == :
+while score == 5:
     num1 = random.randint(1, 10)
     num2 = random.randint(1, 10)
 
