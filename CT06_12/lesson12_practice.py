@@ -130,7 +130,7 @@ while num != 4:
     num = random.randint(1, 6)
     print(f"Rolled: {num}")
 
-
+# or
 
 # import random
 
