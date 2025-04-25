@@ -2,6 +2,6 @@
 
 # Task 1
 
-list = []
+shoplist = []
 
-g_list
+shoplist
