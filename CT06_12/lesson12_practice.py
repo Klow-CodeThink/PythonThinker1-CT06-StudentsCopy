@@ -131,6 +131,15 @@ while num != 4:
     num = num + ran_num
 print(num)
 
+import random
+
+while True:
+    number = random.randint(1, 6)
+    print("Rolled:", number)
+
+    if number == 4:
+        print("It's a 4! Stopping.")
+        break
 
 
 
