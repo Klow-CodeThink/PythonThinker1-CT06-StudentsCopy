@@ -29,3 +29,4 @@ shoplist.append("ice")
 shoplist.insert(1, "bananas")
 
 print(shoplist)
+
