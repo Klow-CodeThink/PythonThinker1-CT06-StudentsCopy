@@ -128,7 +128,7 @@ num = 0
 
 while num != 4:
     num = random.randint(1, 6)
-    print(f"Rolled:", number)
+    print(f"Rolled: {num}")
 
 
 
