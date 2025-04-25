@@ -132,5 +132,7 @@ elif user_score >= 70 and user_score <= 79:
     print("C")
 elif user_score >= 60 and user_score <= 69:
     print("D")
+else:
+    print("F")
 
 
