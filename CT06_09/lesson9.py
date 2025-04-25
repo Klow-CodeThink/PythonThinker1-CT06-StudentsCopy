@@ -122,7 +122,9 @@ else:
 
 # Task 9
 
-user_score = 
+user_score = int(input("Enter the score: "))
+
+if user_score >=90 and user_score <
 
 
 
