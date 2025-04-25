@@ -45,7 +45,7 @@ for groceries in shoplist:
     print(groceries)
 """
 
-
+"""
 grocery = "Apples"
 
 if grocery == "Apples":
@@ -62,5 +62,10 @@ grocery = "Grapes"
 
 if grocery == "Grapes":
     print(f"{grocery}: Get the FarmFresh brand")
+"""
+
+
+
+
 
 
