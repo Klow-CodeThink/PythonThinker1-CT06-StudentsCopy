@@ -119,6 +119,24 @@ while score < 6:
 
 
 
+import random
+
+correct_count = 0
+
+while correct_count < 5:
+    num1 = random.randint(1, 10)
+    num2 = random.randint(1, 10)
+
+    ques = int(input(f"What is {num1} x {num2}? "))
+
+    if ques == (num1 * num2):
+        correct_count += 1
+        print(f"That's correct! ✅ Total correct: {correct_count}/5\n")
+    else:
+        print("Wrong. Try again.\n")
+
+print("🎉 You got 5 correct answers! Well done!")
+
 
 
 
