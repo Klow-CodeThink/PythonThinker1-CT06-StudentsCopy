@@ -117,7 +117,7 @@ while True:
     print(f"'{item}' has been added to the catalogue.\n")
 
 # Display the final catalogue
-print("\n🛒 Online Grocery Catalogue:")
+print("\nOnline Grocery Catalogue:")
 for product in catalogue:
     print(f"- {product}")
 """
@@ -192,7 +192,7 @@ while True:
         print("Please enter a valid number or 'end'.")
 
 # Step 4: Print the selected toppings
-print("\n🍕 You have selected the following toppings:")
+print("\nYou have selected the following toppings:")
 for topping in selected_toppings:
     print(f"- {topping}")
 """
